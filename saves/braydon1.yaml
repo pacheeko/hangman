@@ -1,0 +1,16 @@
+--- !ruby/object:Hangman
+word: Lothario
+guesses: 5
+current_guess: save
+word_progress:
+- L
+- o
+- _
+- _
+- _
+- _
+- _
+- o
+incorrect_guesses:
+- e
+- m
